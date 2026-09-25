@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hey, I'm Lamin 👋<br><br>I'm a **Software Engineering enthusiast from The Gambia 🇬🇲** who enjoys turning ideas into useful digital products.<br><br>💻 **Currently learning:** JavaScript, TypeScript, React, Next.js & backend development<br>🚀 **Interested in:** Full-Stack Development, Software Engineering, AI & Agentic Systems<br>🛠️ **Building:** Real-world projects that solve practical problems<br>📚 **Goal:** Become a well-rounded software engineer who can build, ship, and maintain meaningful products.<br><br>I believe the best way to learn is to **build, break, fix, and build again.**<br>
+## Hey, I'm Lamin 👋<br><br>## Hey, I'm Lamin 👋<br><br>I'm a **Software Engineering enthusiast from The Gambia 🇬🇲** who enjoys turning ideas into useful digital products.<br><br>💻 **Current focus:** JavaScript, TypeScript, React, Next.js & backend development<br>🚀 **Learning next:** Node.js, PostgreSQL, Redis, Docker, Kafka & System Design<br>🛠️ **Building:** Real-world projects that solve practical problems<br>🤖 **Interested in:** AI, Agentic Systems & modern software engineering<br>🎯 **Goal:** Become a well-rounded software engineer who can build, ship, and maintain meaningful products.<br><br>I believe the best way to learn is to **build, break, fix, and build again.**<br>
 
 
 # 💻 Tech Stack:
